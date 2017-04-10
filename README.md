@@ -2,6 +2,8 @@
 
 [![AppVeyor logo](AppVeyor.png)](https://appveyor-ci.org)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/r34ld400rp98dh6o/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp17/branch/master)
+
 This GitHub is part of [the AppVeyor C++ Tutorial](https://github.com/richelbilderbeek/appveyor_cpp_tutorial).
 
 The goal of this project is to have a clean Travis CI build, with specs:
