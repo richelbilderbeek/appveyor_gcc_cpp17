@@ -1,5 +1,5 @@
 install:
-  - set PATH=%PATH%;C:\MinGW\bin
+  - set PATH=%PATH%;C:\mingw-w64\i686-6.3.0-posix-dwarf-rt_v5-rev1\bin
 
 build_script:
   - g++ main.cpp -std=c++17 -o travis_gcc_cpp17

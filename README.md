@@ -24,5 +24,6 @@ Equally complex builds:
 Less complex builds:
 
  * Use C++11: [![Build status](https://ci.appveyor.com/api/projects/status/0b5s1keq9e3s9u08/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp11/branch/master) [appveyor_gcc_cpp11](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp11)
+ * Use C++14: [![Build status](https://ci.appveyor.com/api/projects/status/r0c3wnwin26yvfto/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp14/branch/master) [appveyor_gcc_cpp14](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp14)
  * Use C++98: [![Build status](https://ci.appveyor.com/api/projects/status/l1u8fhfsmorqs2cg/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp98/branch/master) [appveyor_gcc_cpp98](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp98)
 
